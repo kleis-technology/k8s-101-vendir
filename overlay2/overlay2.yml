@@ -5,4 +5,5 @@
 metadata:
   labels:
     foo: bar
+    baz: boom
 
